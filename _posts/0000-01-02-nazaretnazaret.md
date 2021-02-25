@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Girls who are just starting to code b like
 Use the left arrow to go back!
